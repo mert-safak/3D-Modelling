@@ -1,3 +1,4 @@
+shift+a ----> yeni obje oluşturma
 g ----> hareket ettirme
 s ----> boyut değiştirme
 r ----> yön değiştirme
@@ -8,3 +9,12 @@ ctrl+r ----> loop cut - ctrl+r'den sonra mouse ile objenin üzerine gelinimp mou
 ı ----> inset - çoklu yüzey seçilirse hepsi birlikte inset edilir. Eğer ı ya tekrar basılıp inset edilirse hepsini bağımsız alır. 
 ctrl+b ----> bevel
 ctrl+shift+b ----> vortex bevel - bu da köşe seçip kullanmak içindir.
+
+3d cursor neredeyse yeni obje orada oluşur.
+shift+sağ tık ----> 3d cursoru ekranda hergani bir yere taşır.
+shift+s -----> 3d cursor için bir menü açar
+    -cursor to world origin -----> 3d cursoru tekrar merkeze taşır.
+    -cursor to selected -----> 3d cursoru seçili alana taşır.
+
+t ----> sol taraftaki menüyü açıp kapatır. (Varsayılan açık)
+n ----> sağ taraftaki menüyü açıp kapatır. (Varsayılan kapalı)
