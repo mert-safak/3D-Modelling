@@ -1,0 +1,10 @@
+g ----> hareket ettirme
+s ----> boyut değiştirme
+r ----> yön değiştirme
+bu kısayollar tıklandıktan sonra bir de x,y,z eksenleri klavyeden tıklanırsa sadece komut o eksende uygulanır.
+
+e ----> extrude
+ctrl+r ----> loop cut - ctrl+r'den sonra mouse ile objenin üzerine gelinimp mouse tekerleği ileri geri yapılırsa loop cut sayısı artar.
+ı ----> inset - çoklu yüzey seçilirse hepsi birlikte inset edilir. Eğer ı ya tekrar basılıp inset edilirse hepsini bağımsız alır. 
+ctrl+b ----> bevel
+ctrl+shift+b ----> vortex bevel - bu da köşe seçip kullanmak içindir.
