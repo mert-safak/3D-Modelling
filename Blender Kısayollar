@@ -18,3 +18,9 @@ shift+s -----> 3d cursor için bir menü açar
 
 t ----> sol taraftaki menüyü açıp kapatır. (Varsayılan açık)
 n ----> sağ taraftaki menüyü açıp kapatır. (Varsayılan kapalı)
+
+L -----> edit mode içerisinde farklı objelerin seçimim yapar mouse ile üzerine gelip L ye basılır.
+p------> edit mode'da seçilen objeleri ayırır
+ctrl+j------> seçilen objeleri birleştirir.
+
+ctrl+ı ------> yüzey seçimi yapıldığında seçimi tersine çevirir
