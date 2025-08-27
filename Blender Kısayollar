@@ -1,5 +1,6 @@
 shift+a ----> yeni obje oluşturma
 g ----> hareket ettirme
+    -düz bir alanda ikinci kez g'ye basılırsa özellikle loop katlarsa bir ray üzerinde hareket ediyor gibi düz bir alanda hareket eder.
 s ----> boyut değiştirme
 r ----> yön değiştirme
 bu kısayollar tıklandıktan sonra bir de x,y,z eksenleri klavyeden tıklanırsa sadece komut o eksende uygulanır.
