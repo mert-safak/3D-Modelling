@@ -19,6 +19,10 @@ shift+s -----> 3d cursor için bir menü açar
 t ----> sol taraftaki menüyü açıp kapatır. (Varsayılan açık)
 n ----> sağ taraftaki menüyü açıp kapatır. (Varsayılan kapalı)
 
+/ -----> seçilen obje harici objeleri gizler
+h ------> seçilen objeyi gizler
+alt+h-------> tüm gizlenen objeleri görünür yapar
+
 L -----> edit mode içerisinde farklı objelerin seçimim yapar mouse ile üzerine gelip L ye basılır.
 p------> edit mode'da seçilen objeleri ayırır
 ctrl+j------> seçilen objeleri birleştirir.
